@@ -61,7 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'sidebar-bg': 'hsl(var(--sidebar-bg))',
+				'sidebar-hover': 'hsl(var(--sidebar-hover))',
+				'crypto-orange': 'hsl(var(--crypto-orange))',
+				'crypto-green': 'hsl(var(--crypto-green))',
+				'crypto-purple': 'hsl(var(--crypto-purple))',
+				'crypto-blue': 'hsl(var(--crypto-blue))',
+				'success-green': 'hsl(var(--success-green))',
+				'error-red': 'hsl(var(--error-red))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
